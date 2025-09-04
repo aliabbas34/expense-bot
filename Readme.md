@@ -57,8 +57,8 @@ GOOGLE_PRIVATE_KEY="-----BEGIN PRIVATE KEY-----\nYOUR_PRIVATE_KEY\n-----END PRIV
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/your-username/discord-expense-bot.git
-   cd discord-expense-bot
+   git clone https://github.com/aliabbas34/expense-bot.git
+   cd expense-bot
    ```
 
 2. Install dependencies:
