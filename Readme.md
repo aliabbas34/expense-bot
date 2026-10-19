@@ -73,6 +73,10 @@ GOOGLE_PRIVATE_KEY="-----BEGIN PRIVATE KEY-----\nYOUR_PRIVATE_KEY\n-----END PRIV
    npm run dev
    ```
 
+   This starts the Discord bot and an HTTP health endpoint on port `3000`. Check
+   `http://localhost:3000` to see whether the Discord client is connected. Set
+   the `PORT` environment variable to use a different port.
+
    Or build and run:
    ```bash
    npm run build
@@ -110,4 +114,3 @@ GOOGLE_PRIVATE_KEY="-----BEGIN PRIVATE KEY-----\nYOUR_PRIVATE_KEY\n-----END PRIV
 
 - X (Twitter): [@Er_AliAbbas](https://x.com/Er_AliAbbas)
 - Email: aliabbas7317@gmail.com
-
